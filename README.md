@@ -27,6 +27,9 @@ Ankhoria demo hub
     Minmore Musket - Fires a round that deals moderate damage. Successful hits reduces the cooldown, and increases damage permanently 
     (until the end of the match).
     
+    Blackfire Lantern - Consumes mana when used. Fires a ball of fire. Deals 30% of targets current health. All DoT-effects on target 
+    are consumed and the equivalent damage is dealt instanly. 
+    
 ## Passive Abilities
 
     Manashield - A portion of the damage taken is transfered to mana damage instead
@@ -38,3 +41,6 @@ Ankhoria demo hub
     Life Tap - Convert a portion of your health to mana
     
     Void Prison - Create an area of inescapable void
+    
+    Decay - Creates an orb mid air. After a short while, it explodes applying a DoT. If the target already has Decay, it will stack 
+    and refresh its full duration
